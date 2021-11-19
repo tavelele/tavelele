@@ -4,7 +4,7 @@
 - 🛠 I’m currently learning all I need to become a better BackEnd&FrontEnd Software Developer 
 - 👯 In the future I'd like to collaborate to an open source project
 - 📫 How to reach me: tavelele@gmail.com or <a href="https://it.linkedin.com/in/antonio-laerte-tavella-68181a33" target="_blank" >Linkedin message</a>
-- 😄 Languages: ENG ITA
+- 😄 Languages: :us: and :it:	
 - 🌐 My main skills are: 
 ![HTML](https://user-images.githubusercontent.com/77243049/132858661-c981d7f4-c3be-4540-8a17-ae3a44ba5d27.png) | 
 ![CSS](https://user-images.githubusercontent.com/24848860/142672309-4f3efa87-d226-41f2-a20b-2274dbd6786b.png) 
