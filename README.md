@@ -19,7 +19,7 @@
 ![EXPRESS](https://user-images.githubusercontent.com/24848860/142674071-2af90a0b-72db-4d56-9b5e-6bac3ecfc74c.png) |
 ![ORACLE](https://user-images.githubusercontent.com/24848860/142675259-20626b29-3a5a-41dd-bed4-125327fa83cb.png)
 ![MYSQL](https://user-images.githubusercontent.com/24848860/142675512-ed070f40-f36d-4363-ab6b-8d813a3ed220.png)
- - 🔧 
+ - 🔧 Developer Tools:
  ![VS](https://user-images.githubusercontent.com/24848860/142676043-a3c12a05-ab3e-4da4-803d-4907e496cd08.png) | 
  ![GIT](https://user-images.githubusercontent.com/24848860/142676194-a187a9be-1a07-4d95-82f8-8fe688ebf038.png) | 
  ![LINUX](https://user-images.githubusercontent.com/24848860/142676504-709c1c8f-79da-4357-b96f-e760bb48f3ac.png) | 
