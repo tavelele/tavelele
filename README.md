@@ -1,7 +1,8 @@
 ### Hi there 👋
-### I'm Antonio Laerte Tavella
+### I'm Antonio Laerte Tavella - Milan 🏴󠁧󠁢󠁥󠁮󠁧󠁿  Sicily 🇮🇲 Calabria 🇰🇿
 
-- 🛠 I’m currently learning all I need to become a better BackEnd&FrontEnd Software Developer 
+- 🛠 I’m currently learning all I need to become a better BackEnd & FrontEnd Developer
+- 👨‍💻 I currently work at: Software Developer in >_ Abstract 🚀 
 - 👯 In the future I'd like to collaborate to an open source project
 - 📫 How to reach me: tavelele@gmail.com or <a href="https://it.linkedin.com/in/antonio-laerte-tavella-68181a33" target="_blank" >Linkedin message</a>
 - :speaking_head: Languages: :us: and :it:	
